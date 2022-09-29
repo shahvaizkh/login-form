@@ -2,7 +2,7 @@
     padding-top: 5px;
 }
 .bg{
-    background-image: url(./assets/back.jpg);
+    background-image: url('../assets/back.jpg');
     background-size: cover;
     padding-top: 40px;
     padding-bottom: 40px;
