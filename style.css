@@ -1,0 +1,18 @@
+.padding{
+    padding-top: 5px;
+}
+.bg{
+    background-image: url(./assets/back.jpg);
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card-body{
+    background-color: rgba(0, 125, 131, 0.29);
+}
+.loginForm{
+    color: darkblue;
+}
+.font{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
